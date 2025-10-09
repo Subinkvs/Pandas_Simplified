@@ -139,3 +139,6 @@ clean_df = df.dropna()
 print("\nAfter dropna():")
 print(clean_df)
 
+
+
+
